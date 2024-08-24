@@ -1,0 +1,3 @@
+/*! js/login/AngularLogin.30.1.2084.js © 2024 Open Education, LLC. */
+webpackJsonp([15],{1745:function(n,i,t){n.exports=t(1746)},1746:function(n,i,t){!function(){"use strict";var n=(t(17),t(15)),i=t(19),e=t(105),o=t(1747),p=n.template(o);window.Login=i.View.extend({render:function(){return this.$el.html(p({i18n:i18n})),e.init(),this}})}()},1747:function(n,i){n.exports="<lp2-login-page></lp2-login-page>"}},[1745]);
+//# sourceMappingURL=AngularLogin.30.1.2084.js.map
